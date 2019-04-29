@@ -65,7 +65,7 @@ Run the script by using command:
 # Detection Result
 After training the model like the orginal paper described, we can get the detection result.
 
-![](result.png)
+![alt-text](result.png "Detection Result")
 
 # Reference
 1.[hizhangp.yolo_tensorflow](https://github.com/hizhangp/yolo_tensorflow)  
